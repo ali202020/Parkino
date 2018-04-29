@@ -1,0 +1,7 @@
+.card .table-responsive .btn-danger{display: none;margin-left: auto;margin-right: auto;margin-bottom: 5px;margin-top: 5px;}
+.card .table-responsive td{text-align: center;margin-bottom: 5px;margin-top: 5px;}
+.card .table-responsive th{text-align: center;margin-bottom: 5px;margin-top: 5px;}
+.card .table-responsive .btn-success{display: inline; margin-left: auto;margin-right: auto;margin-bottom: 5px;margin-top: 5px;}
+.card .table-responsive  .btn-warning{color: #fff;background-color: #e6a01c; border: 1px solid #e6a01c; padding: 10px 30px 10px 30px;}
+.table-responsive tr td input{width: 100%;}
+}
